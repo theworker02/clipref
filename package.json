@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/clipref",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clip encode/decode helpers for ref payloads in pipelines.",
+  "bin": {
+    "clipref": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/clipref.git"
+  },
+  "homepage": "https://theworker02.github.io/clipref/",
+  "keywords": [
+    "clip",
+    "ref",
+    "encode",
+    "cli",
+    "toolkit"
+  ]
+}
